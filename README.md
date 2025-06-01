@@ -1,10 +1,16 @@
-# lilbrowser: an Open Source browser made for fun. 0.01 (beta) REALEASED!
+# lilbrowser: an Open Source browser made for fun. 0.01 (normal) After 9 minutes... the fulll 0.01 is... *drumroll pleeeeeaseeeeeeeeeeeeeeeee..........* REALEASED!
 # ive made so many concepts, but the time is............... NOW!
 <bold>Its a web browser, made for fun.<bold>
-![Screenshot 2025-06-01 002723](https://github.com/user-attachments/assets/ffd45a03-374d-4bbf-a1db-5b282d751319)
+![Screenshot 2025-06-01 005812](https://github.com/user-attachments/assets/6408a82c-423a-4a6f-8ffd-bcb5c9bd1b7a)
+
 # Ever just, wanted to have a web browser that was made for fun?
 Lilbrowser has you!
 Lilbrowser is made with forms & ai (i can't code, also dont get mad i used ai, THIS WEB BROWSER IS MADE FOR FUN YOU DUMBA-)
 # Let's see lilbrowser run some test websites:
-Lilbrowser only can show the google.com page for now.
+# mrdoob.com : ![Screenshot 2025-06-01 011834](https://github.com/user-attachments/assets/ebbd736b-6b0f-41a8-abda-efdc4736b41f)
+# malwaremasters-website.ewebnode.page : my website![Screenshot 2025-06-01 011817](https://github.com/user-attachments/assets/50a60389-8685-4cdd-acd9-9edc92850bc2)
+# he doesnt like rendering sex game websites btw ![Screenshot 2025-06-01 012046](https://github.com/user-attachments/assets/dc4058fe-a0bf-4845-913a-26acdaa19ff9)
+
+
+
 
