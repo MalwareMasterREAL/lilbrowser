@@ -1,2 +1,2 @@
 # lilbrowser
-Its a web browser, made for fun.
+<bold>Its a web browser, made for fun.<bold>
