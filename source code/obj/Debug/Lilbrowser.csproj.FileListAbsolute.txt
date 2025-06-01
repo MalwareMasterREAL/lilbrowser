@@ -1,0 +1,10 @@
+C:\Users\Gamer\source\repos\Lilbrowser\Lilbrowser\bin\Debug\Lilbrowser.exe.config
+C:\Users\Gamer\source\repos\Lilbrowser\Lilbrowser\bin\Debug\Lilbrowser.exe
+C:\Users\Gamer\source\repos\Lilbrowser\Lilbrowser\bin\Debug\Lilbrowser.pdb
+C:\Users\Gamer\source\repos\Lilbrowser\Lilbrowser\obj\Debug\Lilbrowser.csproj.AssemblyReference.cache
+C:\Users\Gamer\source\repos\Lilbrowser\Lilbrowser\obj\Debug\Lilbrowser.Form1.resources
+C:\Users\Gamer\source\repos\Lilbrowser\Lilbrowser\obj\Debug\Lilbrowser.Properties.Resources.resources
+C:\Users\Gamer\source\repos\Lilbrowser\Lilbrowser\obj\Debug\Lilbrowser.csproj.GenerateResource.cache
+C:\Users\Gamer\source\repos\Lilbrowser\Lilbrowser\obj\Debug\Lilbrowser.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\source\repos\Lilbrowser\Lilbrowser\obj\Debug\Lilbrowser.exe
+C:\Users\Gamer\source\repos\Lilbrowser\Lilbrowser\obj\Debug\Lilbrowser.pdb
