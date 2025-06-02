@@ -9,7 +9,7 @@ Lilbrowser is made with forms & ai (i can't code, also dont get mad i used ai, T
 # Let's see lilbrowser run some test websites:
 # mrdoob.com : ![Screenshot 2025-06-01 011834](https://github.com/user-attachments/assets/ebbd736b-6b0f-41a8-abda-efdc4736b41f)
 # malwaremasters-website.webnode.page : my website![Screenshot 2025-06-01 011817](https://github.com/user-attachments/assets/50a60389-8685-4cdd-acd9-9edc92850bc2)
-# he doesnt like rendering sex game websites btw ![Screenshot 2025-06-01 012046](https://github.com/user-attachments/assets/dc4058fe-a0bf-4845-913a-26acdaa19ff9)
+
 
 
 
