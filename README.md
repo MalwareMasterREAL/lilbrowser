@@ -1,4 +1,5 @@
-# lilbrowser: an Open Source browser made for fun. 0.01 (normal) After 9 minutes... the fulll 0.01 is... *drumroll pleeeeeaseeeeeeeeeeeeeeeee..........* REALEASED!
+# lilbrowser: an Open Source browser made for fun. 0.01 (normal) After 9 minutes... the fulll 0.1 is... *drumroll pleeeeeaseeeeeeeeeeeeeeeee..........* REALEASED!
+# update: i made an installer. source fose in the source code above (open in Inno Setup)
 # ive made so many concepts, but the time is............... NOW!
 <bold>Its a web browser, made for fun.<bold>
 ![Screenshot 2025-06-01 005812](https://github.com/user-attachments/assets/6408a82c-423a-4a6f-8ffd-bcb5c9bd1b7a)
