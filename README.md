@@ -12,7 +12,7 @@ Lilbrowser has you!
 Lilbrowser is made with forms & ai (i can't code, also dont get mad i used ai, THIS WEB BROWSER IS MADE FOR FUN YOU DUMA-)
 
 # lilbrowser is [![inno setup too](https://skillicons.dev/icons?i=cs,innosetup)](https://skillicons.dev)
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;AND+INNO+SETUP)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AND+INNO+SETUP)
 
 
 
