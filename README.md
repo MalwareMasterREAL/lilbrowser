@@ -11,7 +11,8 @@
 Lilbrowser has you!
 Lilbrowser is made with forms & ai (i can't code, also dont get mad i used ai, THIS WEB BROWSER IS MADE FOR FUN YOU DUMA-)
 
-# lilbrowser is [![inno setup too](https://skillicons.dev/icons?i=cs,innosetup)](https://skillicons.dev) ![download](https://github.com/user-attachments/assets/62e37d0e-89fd-44ea-b553-d70a38baf80a)
+# lilbrowser is [![inno setup too](https://skillicons.dev/icons?i=cs,innosetup)](https://skillicons.dev)
+<bold>AND INNO SETUP<bold/>
 
 
 
